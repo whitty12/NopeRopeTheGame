@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3fe5333-b10d-4eab-9f02-16f37290e772" name="Changes" comment="A green rectangle now moves with a players key press!">
+    <list default="true" id="a3fe5333-b10d-4eab-9f02-16f37290e772" name="Changes" comment="The snake eats the food now">
       <change afterPath="$PROJECT_DIR$/player.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/transparent.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -120,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740556749627</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="The snake eats the food now">
+      <option name="closed" value="true" />
+      <created>1740597778659</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1740597778659</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,6 +147,7 @@
     <MESSAGE value="Opens a window and draws the snake's head" />
     <MESSAGE value="Opens a window and draws the snake's head." />
     <MESSAGE value="A green rectangle now moves with a players key press!" />
-    <option name="LAST_COMMIT_MESSAGE" value="A green rectangle now moves with a players key press!" />
+    <MESSAGE value="The snake eats the food now" />
+    <option name="LAST_COMMIT_MESSAGE" value="The snake eats the food now" />
   </component>
 </project>
