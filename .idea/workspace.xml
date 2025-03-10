@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3fe5333-b10d-4eab-9f02-16f37290e772" name="Changes" comment="Code does not run; this is the start of adding segments when the snake eats a piece of food.">
-      <change afterPath="$PROJECT_DIR$/player.py" afterDir="false" />
+    <list default="true" id="a3fe5333-b10d-4eab-9f02-16f37290e772" name="Changes" comment="Changed the way the snake body is implement so it now draws an array of positions; however, current implementation pops the ENTIRE array and no longer lines up correctly with the pieces of food.">
       <change afterPath="$PROJECT_DIR$/transparent.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740881987724</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Changed the way the snake body is implement so it now draws an array of positions; however, current implementation pops the ENTIRE array and no longer lines up correctly with the pieces of food.">
+      <option name="closed" value="true" />
+      <created>1741636681025</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1741636681025</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,6 +162,7 @@
     <MESSAGE value="A green rectangle now moves with a players key press!" />
     <MESSAGE value="The snake eats the food now" />
     <MESSAGE value="Code does not run; this is the start of adding segments when the snake eats a piece of food." />
-    <option name="LAST_COMMIT_MESSAGE" value="Code does not run; this is the start of adding segments when the snake eats a piece of food." />
+    <MESSAGE value="Changed the way the snake body is implement so it now draws an array of positions; however, current implementation pops the ENTIRE array and no longer lines up correctly with the pieces of food." />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed the way the snake body is implement so it now draws an array of positions; however, current implementation pops the ENTIRE array and no longer lines up correctly with the pieces of food." />
   </component>
 </project>
